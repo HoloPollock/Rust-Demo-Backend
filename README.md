@@ -1,4 +1,4 @@
-# Hatchways code
+# Rust-Demo-Backend
 
 Assuming UNIX OS(This was written on MacOS but should work on any UNIX based OS)
 
